@@ -2,9 +2,8 @@
 ## stockman
 ----------
 
-Stokmän is AI software which predicts S&P 500 index close prices. This project was found 13.1.2021 21:00 Finnish time at www.komentokeskus.com.
-Do not take this too seriously. This project is meant for learning and fun. The program is written in Go and Python. Go part is used for user
-interface to implement HTML server. Python is used for AI.
+Stokmän is AI software which predicts S&P 500 index close prices. Do not take this too seriously. This project is meant for learning and fun.
+The program is written in Go and Python. Go part is used for user interface to implement HTML server. Python is used for AI.
 
 
 ## How to compile and Run this application
