@@ -1,7 +1,3 @@
-## ========================================================
-  License: Is coming here. It will be something like WTF.. 
-## ========================================================
- 
 
 ## stockman
 ----------
@@ -31,3 +27,7 @@ Prerequisite is that Golang has been installed in your computer (https://golang.
 3) Go to this url: http://localhost:8080/ping
 
 4) On successful case new page is opened and it contains OK string
+
+----------------------------
+
+License: Is coming here. It will be something like WTF.. 
