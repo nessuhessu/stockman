@@ -9,6 +9,8 @@ The program is written in Go and Python. Go part is used for user interface to i
 ## How to compile and Run this application
 ----------------------------------------
 
+Prerequisite is that Golang has been installed in your computer (https://golang.org)
+
 1) Open terminal in stockman directory
 
 2) Give this command to run: go run ./cmd
@@ -16,8 +18,6 @@ The program is written in Go and Python. Go part is used for user interface to i
 
 ## How to test this application
 ----------------------------
-
-Prerequisite is that Golang has been installed in your computer (https://golang.org)
 
 1) Run stockman application
 
