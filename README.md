@@ -12,7 +12,7 @@ interface to implement HTML server. Python is used for AI.
 
 1) Open terminal in stockman directory
 
-2) Give this command: go run ./cmd
+2) Give this command to run: go run ./cmd
 
 
 ## How to test this application
